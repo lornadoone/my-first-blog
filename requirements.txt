@@ -1,0 +1,4 @@
+print('Hello, Django girls!')
+list = [2, 4, 6, 8]
+print(list)
+list.pop[-1]
