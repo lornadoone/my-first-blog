@@ -1,4 +1,1 @@
-print('Hello, Django girls!')
-list = [2, 4, 6, 8]
-print(list)
-list.pop[-1]
+Django~=2.0.6
